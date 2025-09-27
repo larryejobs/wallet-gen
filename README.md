@@ -1,4 +1,4 @@
-# octra wallet generator
+## octra wallet generator
 
 ## quick start
 
